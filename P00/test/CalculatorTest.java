@@ -39,7 +39,6 @@ public class CalculatorTest {
 			 
 		int expected = 3087;
 		assertEquals (expected, actual);
-
 	}
 	
 	@Test
